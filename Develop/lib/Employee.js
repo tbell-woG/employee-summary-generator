@@ -4,7 +4,7 @@ class Employee {
         this.name = name;
         this.id = id;
         this.email = email;
-        this.github = github
+        this.github = github;
     }
     getName() {
         return this.name;
