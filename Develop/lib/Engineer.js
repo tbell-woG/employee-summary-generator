@@ -16,7 +16,7 @@ getID() {
 getEmail() {
     return this.email;
 }
-getPosition() {
+getRole() {
     return "Engineer";
 }
 }
